@@ -1,0 +1,98 @@
+*{
+    
+//-fx-font-family :Broadway ;    
+-fx-font-size:14px;    
+    
+    
+}
+.containers{
+    -fx-background-color:   #ff6666;
+    
+    
+}
+.textfields{
+    -fx-background-radius: 10;
+
+    
+}
+
+.lion {
+}
+.lion:hover {
+    -fx-background-color:#00b300;
+
+}
+.backgrounds{
+  -fx-background-color: #ffffff
+;
+    
+}
+
+.backgroundsheader{
+ -fx-background-color:#ffffff;
+
+    
+}
+#logolabel{
+    
+    -fx-position:center;
+}
+.buttons{
+    
+   -fx-background-color:#009933;
+   -fx-text-fill:#ffffff;
+   -fx-font-size:18px;
+   -fx-font-weight:bold;
+   
+   
+}
+
+.lions {
+}
+.lions:hover {
+    -fx-background-color:#00b300;
+
+}
+.lions:active {
+    -fx-background-color:#00b300;
+
+}
+.lion tablerow:hover{
+    -fx-background-color:#00b300;
+    
+}
+
+.lion .table-row-cell:selected {
+    -fx-background-color:#00b300;
+    
+}
+
+
+
+.table-row-cell:selected {
+   -fx-background-color: #00b300; 
+}
+.table-row-cell:hover {
+  // -fx-background-color: #00b300; 
+}
+.table-row-cell:selected .text {
+       //-fx-fill: #00b300;
+
+}
+
+.list-cell:selected{
+    
+   -fx-background-color: #00b300;  
+    
+    
+}
+
+
+.king .tab-header-background {
+    -fx-background-color: #00b300 ;
+    -fx-text-fill: #ffffff;
+}
+
+
+
+
